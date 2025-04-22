@@ -1,1 +1,2 @@
-# 06_Classify-Students-Based-on-Study-Methods_202401100300006
+Students have different ways of learning—some prefer visual aids, others learn better by listening, and some through hands-on activities. These are known as learning styles: visual, auditory, and kinesthetic.  
+Classifying students based on their study methods helps in providing personalized learning strategies. In this study, we use students' scores in each learning style and apply machine learning to predict their preferred method. This can improve teaching effectiveness and student performance.________________________________________
