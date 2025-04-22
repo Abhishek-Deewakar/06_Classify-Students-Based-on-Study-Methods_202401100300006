@@ -2,6 +2,8 @@ Students have different ways of learning—some prefer visual aids, others learn
 Classifying students based on their study methods helps in providing personalized learning strategies. In this study, we use students' scores in each learning style and apply machine learning to predict their preferred method. This can improve teaching effectiveness and student performance._______
 
 Algorithm Used:- 
+
+
 Rule-Based Classification: The algorithm classifies students into learning styles based on their scores for Visual, Auditory, and Kinesthetic learning styles. Here's how it works:
 
 Step 1: For each student, the code checks their scores for each of the three learning styles.
@@ -12,7 +14,11 @@ Step 3: If the difference is significant, the student is classified into the sty
 
 
 we use bar grap to show result:-
+
+
 ![image](https://github.com/user-attachments/assets/96ae1942-57b8-4ad6-a494-05755a8952e7)
 we also use pie chart to show :-
+
+
 ![image](https://github.com/user-attachments/assets/a2d06133-5053-4c4c-a899-20ef7c5330f2)
 
