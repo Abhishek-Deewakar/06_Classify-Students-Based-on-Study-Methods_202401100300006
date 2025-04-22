@@ -7,15 +7,6 @@ Classifying students based on their study methods helps in providing personalize
 we use bar grap to show result
 
 
-plt.figure(figsize=(25, 12))
-df_melted = df.melt(id_vars=["Student_ID"], value_vars=["Visual", "Auditory", "Kinesthetic"],
-                    var_name="Style", value_name="Score")
-sns.barplot(data=df_melted, x="Student_ID", y="Score", hue="Style", dodge=True)
-plt.title("Student Scores by Learning Style", fontsize=14)
-plt.xlabel("Student ID", fontsize=12)
-plt.ylabel("Score", fontsize=12)
-plt.xticks(rotation=0)
-plt.legend(title="Style")
-plt.tight_layout(pad=3.0)
-plt.show()
+![image](https://github.com/user-attachments/assets/96ae1942-57b8-4ad6-a494-05755a8952e7)
+![image](https://github.com/user-attachments/assets/a2d06133-5053-4c4c-a899-20ef7c5330f2)
 
